@@ -65,15 +65,14 @@ This project is a farm management game.
 ## Contributions & Members
 
    #### Group Members 
- * **21050111058 - Arif ÖZALP**
- * **21050111029 - Bülent DURUSOY**
- * **21050111051 - Meriç UYSALERLER**
- * **21050111080 - Mert BİLGİÇ**
- * **21050111012 - Onur ÇOKYİĞİT**
+ * **Arif ÖZALP**
+ * **Bülent DURUSOY**
+ * **Meriç UYSALERLER**
+ * **Mert BİLGİÇ**
+ * **Onur ÇOKYİĞİT**
 ---
 #### Contributions
 
-* **All members worked with almost equal dedication.**
 
 ### Arif ÖZALP : Backend & Frontend
     Animation,AlertDialog,Event,EventManager,Farm,Field,GameInfo,GameState,GraphicSettings,MainMenuState,Mission,MissionManager,Product,SettingState,State,Save,Timer.
