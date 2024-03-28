@@ -70,25 +70,4 @@ This project is a farm management game.
  * **Meriç UYSALERLER**
  * **Mert BİLGİÇ**
  * **Onur ÇOKYİĞİT**
----
-#### Contributions
 
-
-### Arif ÖZALP : Backend & Frontend
-    Animation,AlertDialog,Event,EventManager,Farm,Field,GameInfo,GameState,GraphicSettings,MainMenuState,Mission,MissionManager,Product,SettingState,State,Save,Timer.
-### Bülent DURUSOY : Frontend & Sound Producer
-    AlertDialog,GameState,GameInfo,PauseMenu,Player,Sound,SoundManager,Trader,Tutorial,Upgrade.
-### Meriç UYSALERLER : Frontend & Graphics
-    Animation,EndAndReportScreen,EventManager,GraphicSettings,ProfilState,PauseMenu,SettingState,Timer,Warehouse.
-### Mert BİLGİÇ : Frontend & Graphics
-    AlertDialog,Animation,CreditState,EndAndReportScreen,Sound,SoundManager,SettingState,Tutorial,Timer,Warehouse.
-### Onur ÇOKYİĞİT: Backend & Frontend
-    CreditState,Event,EventManager,Farm,Field,GameState,MainMenuState,Mission,MissionManager,Player,ProfilState,Product,Trader,Upgrade.
-
-**GUI,PlayerGUI and Game classes were made as a group.**
-
-**We worked together as group members throughout the project.**
-
-**stdafx.h : Include operations are done collectively in this class. The purpose of the file is to speed up the compilation process.**
-
-**The necessary classes were downloaded from the internet for saving.These are Pugixml.cpp , pugiconfig.hpp , pugixml.hpp**
